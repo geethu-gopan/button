@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449416133173",
+    "project_id": "crudpro-53dd8",
+    "storage_bucket": "crudpro-53dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449416133173:android:b492d71be19fbf98b54f7c",
+        "android_client_info": {
+          "package_name": "com.example.button"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449416133173-levhkd29upf6d13q1vc7lme4a01dgjag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSJO2zQEoGXOEwCaitFixOoWatfNnJGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449416133173-levhkd29upf6d13q1vc7lme4a01dgjag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
